@@ -1,0 +1,31 @@
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.exe
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.deps.json
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.runtimeconfig.json
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.dll
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.pdb
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL_Project___Lucas_Vreugdenhil.Form1.resources
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.AssemblyInfo.cs
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.dll
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.pdb
+C:\Users\lucas\source\repos\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.exe
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.deps.json
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.runtimeconfig.json
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.dll
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\bin\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.pdb
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL_Project___Lucas_Vreugdenhil.Form1.resources
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.dll
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.pdb
+C:\Users\lucas\OneDrive\Bureaublad\school\Software Development\PROGTOOL\PROGTOOL Project - Lucas Vreugdenhil\PROGTOOL Project - Lucas Vreugdenhil\obj\Debug\netcoreapp3.1\PROGTOOL Project - Lucas Vreugdenhil.genruntimeconfig.cache

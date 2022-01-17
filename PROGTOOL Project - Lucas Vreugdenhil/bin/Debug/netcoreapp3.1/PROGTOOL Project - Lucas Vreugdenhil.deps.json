@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PROGTOOL Project - Lucas Vreugdenhil/1.0.0": {
+        "runtime": {
+          "PROGTOOL Project - Lucas Vreugdenhil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROGTOOL Project - Lucas Vreugdenhil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
